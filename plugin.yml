@@ -1,0 +1,6 @@
+name: ShulkerProtector
+version: 1.0.0
+main: dev.example.shulkerprotector.ShulkerProtector
+api: ["1.0.0"]
+author: Dark55505550
+description: Prevents shulker box contents from dropping when destroyed
